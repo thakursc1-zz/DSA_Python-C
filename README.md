@@ -1,5 +1,5 @@
-# DSA-
-A collection of solved DSA and general problems online 
+Cracking the Coding Interview Collection of all basic Problems and Data Structures 
+
 
 
 Some Useful links:
