@@ -4,9 +4,9 @@ Cracking the Coding Interview Collection of all basic Problems and Data Structur
 2. Array Lists (python Lists)
 3. String Buffer (python strings) 
 4. LinkedList
+5. Heap 
 
 
-Linked Lists 
 Breadth First Search 
 Bit Manipulation
 Binary Trees 
