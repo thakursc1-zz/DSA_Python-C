@@ -5,12 +5,13 @@ Cracking the Coding Interview Collection of all basic Problems and Data Structur
 3. String Buffer (python strings) 
 4. LinkedList
 5. Heap 
+6. DFS
+7. BFS
+8. Dijiktra
+9. Prims
+10. Kruskals
 
-
-Breadth First Search 
 Bit Manipulation
-Binary Trees 
-Depth First Search 
 Singleton Design Pattern
 Tries 
 Binary Search 
@@ -22,9 +23,6 @@ Recursion
 Vectors / ArrayLists 
 Tree Insert / Find / etc 
 Big-O Time
-
-
-
 Some Useful links:
 1: https://docs.python.org/3/tutorial/datastructures.html#
 
