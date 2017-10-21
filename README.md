@@ -10,6 +10,7 @@ Cracking the Coding Interview Collection of all basic Problems and Data Structur
 8. Dijiktra
 9. Prims
 10. Kruskals
+11. Sorting (quick,merge,bubble,insertion)
 
 Bit Manipulation
 Singleton Design Pattern
