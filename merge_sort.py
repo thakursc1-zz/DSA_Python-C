@@ -3,7 +3,7 @@ def partition(tmp,arr,left,right):
   if(left>=right):
     return tmp 
     
-  mid = (right + left)/ 2
+  mid = (right + left)//2
   
   partition(tmp,arr,left,mid)
   partition(tmp,arr,mid+1,right)
